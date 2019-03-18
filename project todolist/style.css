@@ -1,6 +1,6 @@
 body
 {
-    background-image:url('/notes/615286-corkboard-background-texture.jpg');
+    background-image:url('/615286-corkboard-background-texture.jpg');
 }
 
 .card-main {
@@ -33,7 +33,7 @@ body
     resize:none;
     overflow: auto;
     border: none;
-    background: url('/notes/note.jpg');
+    background: url('note.jpg');
 }
 .card-footer{
     display: flex;
